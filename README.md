@@ -1,16 +1,14 @@
-## Hi there 👋
+# John Plummer (@plumdum)
 
-<!--
-**plumdum/plumdum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & Supreme Architect at **AiGenX** & **Sovereign OS**.
+Focused on autonomous agentic computing, decentralized infrastructure, and empirical execution.
 
-Here are some ideas to get you started:
+### 🌐 Ecosystem & Open Source Projects
+- **Sovereign OS**: Distributed autonomous agent execution & local mesh coordination.
+- **AiGenX**: Decentralized liquidity and multi-agent intelligence platform.
+- **Open Source Contributions**:
+  - Active supporter and contributor to [RustChain](https://github.com/Scottcjn/Rustchain) — Decentralized Proof of Antiquity blockchain and agentic economy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Verification & Payout
+- **GitHub**: [@plumdum](https://github.com/plumdum)
+- **Solana Wallet**: 
