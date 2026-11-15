@@ -11,4 +11,4 @@ Focused on autonomous agentic computing, decentralized infrastructure, and empir
 
 ### 📬 Verification & Payout
 - **GitHub Profile**: https://github.com/plumdum
-- **Solana Treasury**: 
+- **Solana Treasury**: `6Jb252yHePANnEnc5vaaZ6Z9Kabg6898W4kAF9GhuNyh`
