@@ -10,5 +10,5 @@ Focused on autonomous agentic computing, decentralized infrastructure, and empir
   - Active supporter and contributor to [RustChain](https://github.com/Scottcjn/Rustchain) — Decentralized Proof of Antiquity blockchain and agentic economy.
 
 ### 📬 Verification & Payout
-- **GitHub**: [@plumdum](https://github.com/plumdum)
-- **Solana Wallet**: 
+- **GitHub Profile**: https://github.com/plumdum
+- **Solana Treasury**: 
